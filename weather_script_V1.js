@@ -10,7 +10,7 @@
 // Register for an API key at http://openweathermap.org/appid
 // and enter the key below.
 
-var OPEN_WEATHER_MAP_API_KEY = 'b4a2796e5c03d60d30295df647dba62c';
+var OPEN_WEATHER_MAP_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 // Enter the location:
 var weatherLocation = 'De Bilt, NL';
